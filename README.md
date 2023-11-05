@@ -1,2 +1,2 @@
-﻿# ParkingBack Repositorio para pruebas indivividuales de un trabajo grupal (puede contener errores)
+﻿# ParkingBack Repositorio para pruebas indivividuales de un trabajo grupal 
  
